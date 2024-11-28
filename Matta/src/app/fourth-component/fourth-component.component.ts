@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
   styleUrl: './fourth-component.component.css'
 })
 export class FourthComponentComponent {
-
+  parola = "quarto"
 }

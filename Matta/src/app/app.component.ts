@@ -12,5 +12,5 @@ import { SecondComponentComponent } from './second-component/second-component.co
 })
 
 export class AppComponent {
-  title = 'Matta';
+  parola = 'app';
 }
